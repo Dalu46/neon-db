@@ -15,3 +15,9 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+
+
+// input::-webkit-outer-spin-button,
+// input::-webkit-inner-spin-button {
+//     display: none;
+// }
